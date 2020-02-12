@@ -40,7 +40,7 @@
 
 ## General
 
-## Data Augmentation
+### Data Augmentation
 - **Hyperspectral Data Augmentation** (2019), Nalepa et al. [[pdf]](https://arxiv.org/pdf/1903.05580)
 - **On data augmentation for segmenting hyperspectral images** (2019), Nalepa et al. [[pdf]](https://spie.org/Publications/Proceedings/Paper/10.1117/12.2519517?SSO=1)
 
