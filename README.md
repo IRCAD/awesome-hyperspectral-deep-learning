@@ -13,7 +13,7 @@
 
 ### Supervised
 
-- **Learning Deep Hierarchical Spatial–Spectral Features for Hyperspectral Image Classification Based on Residual 3D-2D CNN** (2019), Feng et al. [[html]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6928880/)
+- Learning Deep Hierarchical Spatial–Spectral Features for Hyperspectral Image Classification Based on Residual 3D-2D CNN (2019), Feng et al. [[html]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6928880/)
 - **Deep Convolutional Neural Networks for Hyperspectral Image Classification** (2015), Hu et al. [[pdf]](https://pdfs.semanticscholar.org/0089/95a880625650509422ec7dfb6f4afdc43086.pdf?_ga=2.250225103.816551337.1581496739-1979552906.1581496739)
 - **DEEP LEARNING APPROACH FOR REMOTE SENSING IMAGE ANALYSIS** (2016), Ben Hamida et al. [[html]](https://hal.archives-ouvertes.fr/hal-01370161/)
 - **Deep Learning for Classification of Hyperspectral Data: A Comparative Review** (2019), Audebert et al. [[pdf]](https://arxiv.org/pdf/1904.10674.pdf)
