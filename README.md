@@ -13,6 +13,10 @@
 
 ### Supervised
 
+- **Learning Hyperspectral Feature Extraction and Classification with ResNeXtNetwork** (2020), Nyasaka et al. [[pdf]](https://arxiv.org/pdf/2002.02585.pdf)
+- **HybridSN: Exploring 3D-2D CNN FeatureHierarchy for Hyperspectral Image Classification** (2019), Roy et al. [[pdf]](https://arxiv.org/pdf/1902.06701.pdf)
+- **Spectral–spatial residual network for hyperspectral image classification: A 3-D deep learning framework** (2017), Zhong et al. [[pdf]](https://www.researchgate.net/profile/Zilong_Zhong2/publication/320145277_Spectral-Spatial_Residual_Network_for_Hyperspectral_Image_Classification_A_3-D_Deep_Learning_Framework/links/5ce39604458515712eb894b0/Spectral-Spatial-Residual-Network-for-Hyperspectral-Image-Classification-A-3-D-Deep-Learning-Framework.pdf)
+- **Deep Convolutional Capsule Network for Hyperspectral Image Spectral and Spectral-Spatial Classification** (2019), Zhu et al. [[pdf]](https://www.mdpi.com/2072-4292/11/3/223/pdf)
 - **Learning Deep Hierarchical Spatial–Spectral Features for Hyperspectral Image Classification Based on Residual 3D-2D CNN** (2019), Feng et al. [[html]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6928880/)
 - **Deep Convolutional Neural Networks for Hyperspectral Image Classification** (2015), Hu et al. [[pdf]](https://pdfs.semanticscholar.org/0089/95a880625650509422ec7dfb6f4afdc43086.pdf?_ga=2.250225103.816551337.1581496739-1979552906.1581496739)
 - **DEEP LEARNING APPROACH FOR REMOTE SENSING IMAGE ANALYSIS** (2016), Ben Hamida et al. [[html]](https://hal.archives-ouvertes.fr/hal-01370161/)
