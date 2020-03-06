@@ -13,7 +13,6 @@
 
 ### Supervised
 
-- **Hyperspectral image enhancement and mixture deep-learning classification of corneal epithelium injuries** (2017), Noor et al. [[pdf]](https://www.mdpi.com/1424-8220/17/11/2644/pdf)
 - **Hyperspectral Image Classification With Convolutional Neural Network and Active Learning** (2020), Cao et al. [[html]](https://ieeexplore.ieee.org/document/8978543)
 - **Deep Learning Meets Hyperspectral Image Analysis: A Multidisciplinary Review** (2019), Signoroni et al. [[pdf]](https://www.mdpi.com/2313-433X/5/5/52/pdf)
 - **Learning Hyperspectral Feature Extraction and Classification with ResNeXtNetwork** (2020), Nyasaka et al. [[pdf]](https://arxiv.org/pdf/2002.02585.pdf)
@@ -38,6 +37,7 @@
 - **Unsupervised Spectral–Spatial Feature Learning via Deep Residual Conv–Deconv Network for Hyperspectral Image Classification** (2018), Mou et al. [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8082108)
 
 ## Medical
+- **Hyperspectral image enhancement and mixture deep-learning classification of corneal epithelium injuries** (2017), Noor et al. [[pdf]](https://www.mdpi.com/1424-8220/17/11/2644/pdf)
 - **Medical hyperspectral imaging: a review** (2014), Lu et Fei [[pdf]](https://www.spiedigitallibrary.org/journals/Journal-of-Biomedical-Optics/volume-19/issue-1/010901/Medical-hyperspectral-imaging-a-review/10.1117/1.JBO.19.1.010901.pdf)
 - **A Dual Stream Network for Tumor Detection in Hyperspectral Images** (2019), Weijtmans et al. [[pdf]](https://www.researchgate.net/profile/Caifeng_Shan/publication/334407567_A_Dual_Stream_Network_for_Tumor_Detection_in_Hyperspectral_Images/links/5d9b3449a6fdccfd0e7fb9eb/A-Dual-Stream-Network-for-Tumor-Detection-in-Hyperspectral-Images.pdf)
 - **Cell classification using convolutional neural networks in medical hyperspectral imagery** (2017), Xiang Li et al. [[html]](https://ieeexplore.ieee.org/abstract/document/7984606)
