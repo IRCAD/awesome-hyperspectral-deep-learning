@@ -38,6 +38,7 @@
 
 ## Medical
 - **Hyperspectral image enhancement and mixture deep-learning classification of corneal epithelium injuries** (2017), Noor et al. [[pdf]](https://www.mdpi.com/1424-8220/17/11/2644/pdf)
+- **Tumor semantic segmentation in hyperspectral images using deep learning** (2019), Trajanovski et al. [[pdf]](Tumor semantic segmentation in hyperspectral images using deep learning)
 - **Medical hyperspectral imaging: a review** (2014), Lu et Fei [[pdf]](https://www.spiedigitallibrary.org/journals/Journal-of-Biomedical-Optics/volume-19/issue-1/010901/Medical-hyperspectral-imaging-a-review/10.1117/1.JBO.19.1.010901.pdf)
 - **A Dual Stream Network for Tumor Detection in Hyperspectral Images** (2019), Weijtmans et al. [[pdf]](https://www.researchgate.net/profile/Caifeng_Shan/publication/334407567_A_Dual_Stream_Network_for_Tumor_Detection_in_Hyperspectral_Images/links/5d9b3449a6fdccfd0e7fb9eb/A-Dual-Stream-Network-for-Tumor-Detection-in-Hyperspectral-Images.pdf)
 - **Cell classification using convolutional neural networks in medical hyperspectral imagery** (2017), Xiang Li et al. [[html]](https://ieeexplore.ieee.org/abstract/document/7984606)
@@ -50,6 +51,9 @@
 ### Data Augmentation
 - **Hyperspectral Data Augmentation** (2019), Nalepa et al. [[pdf]](https://arxiv.org/pdf/1903.05580)
 - **On data augmentation for segmenting hyperspectral images** (2019), Nalepa et al. [[pdf]](https://spie.org/Publications/Proceedings/Paper/10.1117/12.2519517?SSO=1)
+
+### Normalization
+- **Does normalization methods play a role for hyperspectral image classification?** (2017), Cao et al. [[pdf]](https://arxiv.org/pdf/1710.02939;Does)
 
 ## Contribute
 
