@@ -45,7 +45,7 @@
 - **Convolutional neural network for medical hyperspectral image classification with kernel fusion** (2018), Huang et al. [[html]](https://ieeexplore.ieee.org/abstract/document/8470659)
 - **Deep convolutional neural networks for classifying head and neck cancer using hyperspectral imaging** (2017), Halicek et al. [[pdf]](https://www.spiedigitallibrary.org/journals/Journal-of-Biomedical-Optics/volume-22/issue-6/060503/Deep-convolutional-neural-networks-for-classifying-head-and-neck-cancer/10.1117/1.JBO.22.6.060503.pdf)
 - **Medical Hyperspectral Image Classification Based on End-to-End Fusion Deep Neural Network** (2017), Wei et al. [[html]](https://ieeexplore.ieee.org/abstract/document/8611167)
-
+- **Hyperspectral Tissue Image Segmentation usingSemi-Supervised NMF and Hierarchical Clustering** (2018), Kumar et al. [[html]](https://ieeexplore.ieee.org/abstract/document/8543868)
 ## General
 
 ### Data Augmentation
