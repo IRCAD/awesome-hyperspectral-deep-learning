@@ -55,6 +55,9 @@
 ### Normalization
 - **Does normalization methods play a role for hyperspectral image classification?** (2017), Cao et al. [[pdf]](https://arxiv.org/pdf/1710.02939;Does)
 
+### HSI distance metrics
+- **A Comprehensive Evaluation of Spectral DistanceFunctions and Metrics for HyperspectralImage Processing** (2015), Deborah et al. [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7061924)
+
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
