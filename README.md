@@ -37,8 +37,8 @@
 - **Unsupervised Spectral–Spatial Feature Learning via Deep Residual Conv–Deconv Network for Hyperspectral Image Classification** (2018), Mou et al. [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8082108)
 
 ## Medical
-- **Spatio-spectral classification of hyperspectral images for brain cancer detection during surgical operations** (2018),[[html]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0193721)
-- **In-Vivo and Ex-Vivo Tissue Analysis through Hyperspectral Imaging Techniques: Revealing the Invisible Features of Cancer** (2019),[[html]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6627361/)
+- **Spatio-spectral classification of hyperspectral images for brain cancer detection during surgical operations** (2018), Fabelo et al. [[html]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0193721)
+- **In-Vivo and Ex-Vivo Tissue Analysis through Hyperspectral Imaging Techniques: Revealing the Invisible Features of Cancer** (2019), Halicek et al. [[html]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6627361/)
 - **Hyperspectral image enhancement and mixture deep-learning classification of corneal epithelium injuries** (2017), Noor et al. [[pdf]](https://www.mdpi.com/1424-8220/17/11/2644/pdf)
 - **Tumor semantic segmentation in hyperspectral images using deep learning** (2019), Trajanovski et al. [[pdf]](Tumor semantic segmentation in hyperspectral images using deep learning)
 - **Medical hyperspectral imaging: a review** (2014), Lu et Fei [[pdf]](https://www.spiedigitallibrary.org/journals/Journal-of-Biomedical-Optics/volume-19/issue-1/010901/Medical-hyperspectral-imaging-a-review/10.1117/1.JBO.19.1.010901.pdf)
