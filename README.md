@@ -13,6 +13,7 @@
 
 ### Supervised
 
+- **Deep Learning for Hyperspectral Image Classification on Embedded Platforms** (2018), Balakrishnan et al. [[html]](https://ieeexplore.ieee.org/document/8708899)
 - **Hyperspectral Image Classification With Convolutional Neural Network and Active Learning** (2020), Cao et al. [[html]](https://ieeexplore.ieee.org/document/8978543)
 - **Deep Learning Meets Hyperspectral Image Analysis: A Multidisciplinary Review** (2019), Signoroni et al. [[pdf]](https://www.mdpi.com/2313-433X/5/5/52/pdf)
 - **Learning Hyperspectral Feature Extraction and Classification with ResNeXtNetwork** (2020), Nyasaka et al. [[pdf]](https://arxiv.org/pdf/2002.02585.pdf)
