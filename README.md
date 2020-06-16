@@ -54,6 +54,11 @@
 ## Multi-Spectral Surgical Imaging
 - **Surgical spectral imaging** (2020), Clancy et al. [[html]](https://www.sciencedirect.com/science/article/pii/S1361841520300645)
 
+## Misc
+- **HYPerspectral Enhanced Reality (HYPER): a physiology-based surgical guidance tool** (2019), Barberio et al. [[html]](https://link.springer.com/article/10.1007/s00464-019-06959-9)
+- **Hyperspectral enhanced reality (HYPER) for anatomical liver resection** (2020), Urade et al. [[html]](https://link.springer.com/article/10.1007%2Fs00464-020-07586-5)
+- **Indocyanine-green-loaded microballoons for biliary imaging in cholecystectomy** (2012), Mitra et al. [[html]](https://www.spiedigitallibrary.org/journals/Journal-of-Biomedical-Optics/volume-17/issue-11/116025/Indocyanine-green-loaded-microballoons-for-biliary-imaging-in-cholecystectomy/10.1117/1.JBO.17.11.116025.full)
+
 ## General
 
 ### Data Augmentation
