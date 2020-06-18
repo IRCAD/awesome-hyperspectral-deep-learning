@@ -59,6 +59,10 @@
 - **Hyperspectral enhanced reality (HYPER) for anatomical liver resection** (2020), Urade et al. [[html]](https://link.springer.com/article/10.1007%2Fs00464-020-07586-5)
 - **Indocyanine-green-loaded microballoons for biliary imaging in cholecystectomy** (2012), Mitra et al. [[html]](https://www.spiedigitallibrary.org/journals/Journal-of-Biomedical-Optics/volume-17/issue-11/116025/Indocyanine-green-loaded-microballoons-for-biliary-imaging-in-cholecystectomy/10.1117/1.JBO.17.11.116025.full)
 
+## Bibliography tool
+- **Announcing Connected Papers — a visual tool for researchers to find and explore academic papers** [[html]](https://medium.com/connectedpapers/announcing-connected-papers-a-visual-tool-for-researchers-to-find-and-explore-academic-papers-89146a54c7d4)
+- **Connected Papers** [[html]](http://connectedpapers.com/)
+
 ## General
 
 ### Data Augmentation
