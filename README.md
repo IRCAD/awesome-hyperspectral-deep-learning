@@ -13,6 +13,7 @@
 
 ### Supervised
 
+- **Deep learning classifiers for hyperspectral imaging: A review** (2020), Paoletti et al. [[html]](https://github.com/mhaut/hyperspectral_deeplearning_review)
 - **Hyperspectral Image Classification with Deep Metric Learning and Conditional Random Field** (2019), Liang et al. [[pdf]](https://arxiv.org/pdf/1903.06258)
 - **Deep Learning for Hyperspectral Image Classification on Embedded Platforms** (2018), Balakrishnan et al. [[html]](https://ieeexplore.ieee.org/document/8708899)
 - **Hyperspectral Image Classification With Convolutional Neural Network and Active Learning** (2020), Cao et al. [[html]](https://ieeexplore.ieee.org/document/8978543)
