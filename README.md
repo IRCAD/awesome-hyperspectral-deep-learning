@@ -74,6 +74,9 @@
 - **Does normalization methods play a role for hyperspectral image classification?** (2017), Cao et al. [[pdf]](https://arxiv.org/pdf/1710.02939;Does)
 - **Advanced Preprocessing: Sample Normalization** [[html]](http://wiki.eigenvector.com/index.php?title=Advanced_Preprocessing:_Sample_Normalization)
 
+### Anomaly detection
+- **Discriminative Reconstruction Constrained Generative Adversarial Network for Hyperspectral Anomaly Detection** (2020), Jiang et al. [[html]](https://ieeexplore.ieee.org/abstract/document/8972475)
+
 ### HSI distance metrics
 - **A Comprehensive Evaluation of Spectral Distance Functions and Metrics for HyperspectralImage Processing** (2015), Deborah et al. [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7061924)
 
