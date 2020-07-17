@@ -6,8 +6,17 @@
 ## Contents
 
 - [Remote Sensing](#remote-sensing)
+    - [Supervised](#supervised)
+    - [Unsupervised](#unsupervised)
 - [Medical](#medical)
-
+- [Multi-Spectral Surgical Imaging](#multi-spectral-surgical-imaging)
+- [Misc](#misc)
+- [Bibliography Tool](#bibliography-tool)
+- [General](#general)
+    - [Data Augmentation](#data-augmentation)
+    - [Normalization](#normalization)
+    - [Anomaly Detection](#anomaly-detection)
+    - [HSI distance metrics](#hsi-distance-metrics)
 
 ## Remote Sensing
 
