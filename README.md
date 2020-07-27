@@ -14,6 +14,7 @@
 - [Bibliography Tool](#bibliography-tool)
 - [General](#general)
     - [Data Augmentation](#data-augmentation)
+    - [Loss Functions](#loss-functions)
     - [Normalization](#normalization)
     - [Anomaly Detection](#anomaly-detection)
     - [HSI distance metrics](#hsi-distance-metrics)
