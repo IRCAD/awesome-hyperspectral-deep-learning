@@ -61,6 +61,7 @@
 - **Deep convolutional neural networks for classifying head and neck cancer using hyperspectral imaging** (2017), Halicek et al. [[pdf]](https://www.spiedigitallibrary.org/journals/Journal-of-Biomedical-Optics/volume-22/issue-6/060503/Deep-convolutional-neural-networks-for-classifying-head-and-neck-cancer/10.1117/1.JBO.22.6.060503.pdf)
 - **Medical Hyperspectral Image Classification Based on End-to-End Fusion Deep Neural Network** (2017), Wei et al. [[html]](https://ieeexplore.ieee.org/abstract/document/8611167)
 - **Hyperspectral Tissue Image Segmentation usingSemi-Supervised NMF and Hierarchical Clustering** (2018), Kumar et al. [[html]](https://ieeexplore.ieee.org/abstract/document/8543868)
+- **Estimation of tissue oxygen saturation from RGB images and sparsehyperspectral signals based on conditional generative adversarialnetwork** (2019), Li et al. [[html]](https://arxiv.org/abs/1905.00391)
 
 ## Multi-Spectral Surgical Imaging
 - **Surgical spectral imaging** (2020), Clancy et al. [[html]](https://www.sciencedirect.com/science/article/pii/S1361841520300645)
